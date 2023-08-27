@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Final Project | WD4E</title>
+</head>
+    <body>
+        <header>
+            <h1><mark>Judith Gonzalez</mark></h1>
+            <nav>
+                <a href="#">One</a>
+                <a href="#">Two</a>
+                <a href="#">Three</a>
+                <a href="#"><mark>contact</mark></a>
+            </nav>
+        </header>
+        <section>
+            <h2>Favorite Foods</h2>
+            <ul>
+                <li><mark>Caramel Candy</mark></li>
+                <li><mark>Sea Salt Caramel Icecream</mark></li>
+                <li><mark>Stuffed Mushrooms</marl></li>
+                <li><maek>Lobster</marl></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Achievements</h2>
+            Progress in this course(100%)<Progress value="100" max="100"></Progress><br>
+            Progress in the Specialization capstone (20%)<Progress value="20" max="100"></Progress><br>
+            Progress in life goals<mark>(27%)<Progress value="27" max="100"></Progress><br>
+        </section>
+        
+        <section>
+            <h2>More About Me</h2>
+            <details>
+                <summary>My Childhood</summary>
+                <p><mark>I was born and raised in the coast of Texas.The summers are very humid and hot.</mark></p>
+            </details>
+        </section>
+        <footer>
+            <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="logo">
+            This page was created by <mark>Judith Gonzalez</mark> &amp; Colleen Van Lent. To learn more about web design,visit <a href="http://www.intro-webdesign.com/">Intro to web design</a>
+        </footer>
+    </body>
+</html>
